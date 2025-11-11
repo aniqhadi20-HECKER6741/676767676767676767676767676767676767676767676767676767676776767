@@ -1,0 +1,31 @@
+{
+    "name": "676767676767676767676767676767676767676767676767676767",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "audio-recording": "*",
+        "Sound Level in decibels (dB)": "github:microbit-foundation/pxt-sound-level-db#v0.1.13",
+        "pxt-flexfx": "github:grandpabond/pxt-flexfx#v2.2.7",
+        "radio-broadcast": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
